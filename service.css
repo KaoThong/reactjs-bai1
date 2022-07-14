@@ -1,0 +1,22 @@
+.feature {
+    align-items: center;
+    justify-content: center;
+    height: 4rem;
+    width: 4rem;
+    font-size: 2rem;
+    border-radius: 5px;
+    display: inline-flex;
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: 800;
+}
+
+p {
+    font-weight: 400;
+}
